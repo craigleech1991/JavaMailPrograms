@@ -1,0 +1,8 @@
+Server: 
+User: 
+Password: 
+To: 
+CC: 
+BCC: 
+Subject: 
+Body: 
